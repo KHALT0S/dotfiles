@@ -1,0 +1,32 @@
+{
+	"lastFm": {},
+	"settings": {
+		"invidious.url": "https://invidious.snopyta.org",
+		"language": "en-US",
+		"userId": "e198b230-69f1-4b05-8886-2852773b6219",
+		"compactQueueBar": true,
+		"compactMenuBar": false,
+		"miniPlayer": false
+	},
+	"playLists": [],
+	"favorites": {
+		"tracks": [],
+		"artists": [],
+		"albums": []
+	},
+	"downloads": [],
+	"equalizer": {
+		"selected": "Default"
+	},
+	"last-thumb-clean-date": 1749931600997,
+	"nuclear": {
+		"identity": {}
+	},
+	"plugin": {
+		"selected": {
+			"metaProviders": "Soundcloud Meta Provider",
+			"streamProviders": "Youtube",
+			"lyricsProviders": "Simple Lyrics Provider"
+		}
+	}
+}

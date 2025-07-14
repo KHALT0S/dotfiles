@@ -1,0 +1,5 @@
+{
+    "position": "top",
+    "height": 32,
+    "modules": ["workspaces", "clock", "battery"]
+}

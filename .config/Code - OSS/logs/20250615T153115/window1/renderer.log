@@ -1,0 +1,18 @@
+2025-06-15 15:31:16.507 [info] Started local extension host with pid 384251.
+2025-06-15 15:31:16.528 [info] ComputeTargetPlatform: linux-x64
+2025-06-15 15:31:16.700 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-06-15 15:31:16.701 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-06-15 15:31:16.720 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-06-15 15:31:19.160 [info] [perf] Render performance baseline is 15ms
+2025-06-15 15:31:21.024 [info] Auto updating outdated extensions. ms-python.debugpy, ms-python.python
+2025-06-15 15:31:26.751 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-06-15 16:07:43.147 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-06-15 16:08:08.087 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

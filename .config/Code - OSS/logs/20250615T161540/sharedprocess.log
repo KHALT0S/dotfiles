@@ -1,0 +1,34 @@
+2025-06-15 16:15:41.399 [info] ComputeTargetPlatform: linux-x64
+2025-06-15 16:15:43.586 [info] ComputeTargetPlatform: linux-x64
+2025-06-15 16:15:46.585 [info] Getting Manifest... ms-python.debugpy
+2025-06-15 16:15:46.586 [info] Getting Manifest... ms-python.python
+2025-06-15 16:15:47.879 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.100.3","date":"2025-06-10T19:02:40.877Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json","path":"/home/habib/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-15 16:15:48.023 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.100.3","date":"2025-06-10T19:02:40.877Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json","path":"/home/habib/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-15 16:15:48.076 [info] Getting Manifest... ms-python.python
+2025-06-15 16:15:48.223 [info] Getting Manifest... ms-python.debugpy
+2025-06-15 16:15:51.058 [info] Extension signature verification result for ms-python.python: UnhandledException. Internal Code: 6. Executed: true. Duration: 171ms.
+2025-06-15 16:15:51.060 [error] Error while installing the extension ms-python.python Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json
+2025-06-15 16:15:51.061 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-06-15 16:15:51.719 [info] Extension signature verification result for ms-python.debugpy: UnhandledException. Internal Code: 6. Executed: true. Duration: 167ms.
+2025-06-15 16:15:51.720 [error] Error while installing the extension ms-python.debugpy Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json
+2025-06-15 16:15:51.721 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-06-16 14:33:02.488 [info] Getting Manifest... ms-python.debugpy
+2025-06-16 14:33:02.496 [info] Getting Manifest... ms-python.python
+2025-06-16 14:33:03.792 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.100.3","date":"2025-06-10T19:02:40.877Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json","path":"/home/habib/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-16 14:33:03.913 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.100.3","date":"2025-06-10T19:02:40.877Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json","path":"/home/habib/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-16 14:33:03.997 [info] Getting Manifest... ms-python.python
+2025-06-16 14:33:04.140 [info] Getting Manifest... ms-python.debugpy
+2025-06-16 14:33:07.367 [info] Extension signature verification result for ms-python.python: UnhandledException. Internal Code: 6. Executed: true. Duration: 171ms.
+2025-06-16 14:33:07.369 [error] Error while installing the extension ms-python.python Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json
+2025-06-16 14:33:07.370 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-06-16 14:33:07.509 [info] Extension signature verification result for ms-python.debugpy: UnhandledException. Internal Code: 6. Executed: true. Duration: 169ms.
+2025-06-16 14:33:07.511 [error] Error while installing the extension ms-python.debugpy Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/habib/.vscode-oss/extensions/extensions.json
+2025-06-16 14:33:07.511 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

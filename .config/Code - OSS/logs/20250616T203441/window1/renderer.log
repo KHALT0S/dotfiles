@@ -1,0 +1,10 @@
+2025-06-16 20:34:41.997 [info] Started local extension host with pid 797239.
+2025-06-16 20:34:42.047 [info] ComputeTargetPlatform: linux-x64
+2025-06-16 20:34:42.186 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-06-16 20:34:42.186 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-06-16 20:34:42.205 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-06-16 20:34:44.622 [info] [perf] Render performance baseline is 16ms
+2025-06-16 20:34:46.938 [info] Auto updating outdated extensions. ms-python.debugpy, ms-python.python
+2025-06-16 20:34:52.779 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
